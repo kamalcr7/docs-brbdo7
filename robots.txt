@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-vhcoxd.juragan89alt.site/sitemap.xml
